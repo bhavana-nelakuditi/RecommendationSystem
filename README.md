@@ -15,5 +15,10 @@ venv/scripts/activate
 ```
 pip install -r requirements.txt
 ```
+## Project Execution
+
+```
+python app.py
+```
 
 Data files had to be removed from the project at hosted as they are too large and exceeds GitHub's file size limit of 100.00 MB.
